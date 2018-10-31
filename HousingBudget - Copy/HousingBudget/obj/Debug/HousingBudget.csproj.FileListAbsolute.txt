@@ -1,0 +1,30 @@
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\bin\Debug\HousingBudget.exe.config
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\bin\Debug\HousingBudget.exe
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\bin\Debug\HousingBudget.pdb
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.csprojAssemblyReference.cache
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.HousingBudget.resources
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.Properties.Resources.resources
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.csproj.GenerateResource.cache
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.csproj.CoreCompileInputs.cache
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.exe
+C:\Users\Yonah\source\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.pdb
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\bin\Debug\HousingBudget.exe.config
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\bin\Debug\HousingBudget.exe
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\bin\Debug\HousingBudget.pdb
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.csprojAssemblyReference.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.HousingBudget.resources
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.Properties.Resources.resources
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.csproj.GenerateResource.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.csproj.CoreCompileInputs.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.exe
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget\HousingBudget\obj\Debug\HousingBudget.pdb
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\bin\Debug\HousingBudget.exe.config
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\bin\Debug\HousingBudget.exe
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\bin\Debug\HousingBudget.pdb
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.csprojAssemblyReference.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.HousingBudget.resources
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.Properties.Resources.resources
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.csproj.GenerateResource.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.csproj.CoreCompileInputs.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.exe
+C:\Users\Yonah\Documents\IMSG 6020\repos\HousingBudget - Copy\HousingBudget\obj\Debug\HousingBudget.pdb
